@@ -1,0 +1,3 @@
+#!/usr/bin/make -f
+debRreposname := bioc
+include /usr/share/R/debian/r-cran.mk

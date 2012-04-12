@@ -1,0 +1,19 @@
+This Debian package of the GNU R package Biobase was generated
+automatically using cran2deb by Biocore Team c/o BioC user list
+<bioconductor@stat.math.ethz.ch>.
+
+The original GNU R package is Copyright (C) 2011 R. Gentleman, V.
+Carey, M. Morgan, S. Falcon and possibly others.
+
+The original GNU R package is maintained by Biocore Team c/o BioC user
+list <bioconductor@stat.math.ethz.ch> and was obtained from:
+
+http://www.bioconductor.org/packages/2.7/bioc/src/contrib
+
+The GNU R package DESCRIPTION offers a Copyright licenses under the
+terms of the license: Artistic-2.0 .  On a Debian GNU/Linux system,
+common licenses are included in the directory
+/usr/share/common-licenses/.
+
+The DESCRIPTION file for the original GNU R package can be found in
+/usr/lib/R/site-library/r-bioc-biobase/DESCRIPTION
